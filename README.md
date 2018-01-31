@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Cette app est un annuaire des moussaillons THP vous précisant leurs préférences alimentaires.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Vous pouvez y accéder en cliquant sur ce lien:  https://hidden-citadel-21395.herokuapp.com
