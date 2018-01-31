@@ -1,0 +1,17 @@
+<br>
+<br>
+<h1>Nouveau Corsaire</h1>
+
+<%= form_for @corsair do |f| %>
+<p><%= f.label :first_name %><br>
+   <%= f.text_field :first_name %></p>
+ <p><%= f.label :age %><br>
+    <%= f.text_field :age %></p>
+ <p><%= f.label :likeness %><br>
+    <%= f.text_field :likeness %></p>
+  <%= f.submit "Create" %>
+<% end %>
+
+</br>
+<div><%= link_to"Back",root_path %></div>
+
